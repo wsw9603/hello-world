@@ -7,3 +7,4 @@ This is my first branch named readme-edit.I am adding some changes to this file.
     暂存区
     仓库
     远程仓库
+Now ,I'am trying to create a new branch and start working on it.
